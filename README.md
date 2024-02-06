@@ -1,3 +1,4 @@
+> нєу тнєʀє, тнιѕ ιѕ [ 𝗠𝗥 𝗦𝗔𝗖𝗛𝗜𝗡 ][ 𝚂ʌŋᴀᴛᴎɩ ] ‌</h1>
 <img align="middle" src="https://profile-counter.glitch.me/SachinxSanatani/count.svg" />
 </p>
 
