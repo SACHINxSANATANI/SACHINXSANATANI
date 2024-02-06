@@ -33,4 +33,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SachinxSanatani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinxSanatani&layout=compact&theme=midnight-purple&hide=Css)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SachinxSanatani)￼Enter
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SachinxSanatani)
