@@ -5,7 +5,7 @@
 [<img src="https://telegra.ph/file/175cbf81c97b2a9469115.jpg"/>](https://github.com/SachinxSanatani)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+YAE+ダ+MIKO+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+ＳＡＣＨＩＮ+ＳＡＮＡＴＡＮＩ+」+──;ＪＡＩ+ＳＨＲＥＥ+ＲＡＭ.&width=600&height=180">
 </div>
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
