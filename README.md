@@ -1,5 +1,3 @@
-<h1> <img  style="align-item" :"center" src="" width="50px" height="60%"> нєу тнєʀє, тнιѕ ιѕ [ 𝗠𝗥 𝗦𝗔𝗖𝗛𝗜𝗡 ][ 𝚂ʌŋᴀᴛᴎɩ ] ‌</h1>
-<p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/SachinxSanatani/count.svg" />
 </p>
