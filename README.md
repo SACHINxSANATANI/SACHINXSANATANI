@@ -1,5 +1,4 @@
-
- -->    <img align="middle" src="https://profile-counter.glitch.me/SachinxSanatani/count.svg" />
+<img align="middle" src="https://profile-counter.glitch.me/SachinxSanatani/count.svg" />
 </p>
 
 [<img src="https://telegra.ph/file/175cbf81c97b2a9469115.jpg"/>](https://github.com/SachinxSanatani)
