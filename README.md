@@ -8,15 +8,15 @@
 # Some Projects
 
 <a href="https://github.com/SachinxSanatani/Sanatanixmusic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=ANNIE-X-MUSIC&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=Sanatanixmusic&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/SachinxSanatani/SanatanixChatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=doraemon890&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=SanatanixChatbot&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/SachinxSanatani/SanatanixSpam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=JARVIS-X-SPAM&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=SanatanixSpam&cache_seconds=86400&theme=gotham">
 </a>
 
 <details>
