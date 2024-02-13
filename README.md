@@ -9,7 +9,11 @@
 
 ![SACHIN_SANATANI](https://github-stats-alpha.vercel.app/api?username=sachinxsanatani "SHREE_SANATANI")
 
-# ѕσмє ρʀσᴊєᴄтѕ
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+### ѕσмє ρʀσᴊєᴄтѕ
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="https://github.com/sachinsanatani/Sanatanixmusic">
