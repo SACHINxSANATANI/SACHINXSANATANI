@@ -13,26 +13,6 @@
   
 ![SACHIN_SANATANI](https://github-stats-alpha.vercel.app/api?username=sachinxsanatani "SHREE_SANATANI")
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="center"><b>ѕσмє ρʀσᴊєᴄтѕ</b></h1>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"
-  
-<a href="https://github.com/sachinsanatani/Sanatanixmusic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinxSanatani&repo=Sanatanixmusic&cache_seconds=86400&theme=gotham">
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github.com/SachinxSanatani/SanatanixChatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinxSanatani&repo=SanatanixChatbot&cache_seconds=86400&theme=gotham">
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github.com/SachinxSanatani/SanatanixSpam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SachinxSanatani&repo=SanatanixSpam&cache_seconds=86400&theme=gotham">
-</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
